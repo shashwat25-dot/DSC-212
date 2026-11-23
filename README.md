@@ -4,11 +4,7 @@
 **Course:** DSC212, Graph Theory  
 **Primary submission:** [DSC212_Karate_Club_Modularity.ipynb](DSC212_Karate_Club_Modularity.ipynb)
 
-The notebook implements recursive spectral modularity partitioning from scratch with
-NumPy, visualizes every accepted split, computes four NetworkX node metrics, plots
-all 34 nodes across iterations, and discusses the actual results. It includes saved
-outputs, method explanations, numerical checks, and conceptual exam study notes.
-AI assistance was used, as permitted by the instructor's announcement.
+
 
 ## Results
 
@@ -92,19 +88,3 @@ convention. These scope choices are explicit assumptions where the handout is am
 | `artifacts/run_metadata.json` | Versions, conventions, and run summary |
 | `artifacts/validation.json` | Numerical and coverage checks |
 
-## References
-
-- Newman, M. E. J. (2006). *Modularity and community structure in networks*.
-  **PNAS 103**(23), 8577-8582. [doi:10.1073/pnas.0601602103](https://doi.org/10.1073/pnas.0601602103).
-  [Author preprint](https://arxiv.org/abs/physics/0602124).
-- Zachary, W. W. (1977). *An Information Flow Model for Conflict and Fission in Small
-  Groups*. **Journal of Anthropological Research 33**(4), 452-473.
-- Official NetworkX documentation is linked in the notebook beside the relevant
-  dataset, modularity, and metric definitions.
-
-## Course submission
-
-Submit **https://github.com/shashwat25-dot/DSC-212** through the Google Sheet specified
-in the instructor's announcement, together with your name and roll number. Uploading
-the repository alone does not enter the course's submission Sheet. The announcement
-sets the deadline to the subject's end-semester exam date.
