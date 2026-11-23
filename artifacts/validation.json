@@ -1,0 +1,12 @@
+{
+  "all_nodes_once_per_partition": true,
+  "all_accepted_gains_positive": true,
+  "matrix_scores_match_networkx": true,
+  "recursive_gain_identity_cases": 8,
+  "original_graph_unchanged": true,
+  "all_four_metrics_all_nodes_all_iterations": true,
+  "global_metrics_constant": true,
+  "metric_rows_per_scope": 136,
+  "saved_community_snapshots": 4,
+  "metric_evolution_figures": 4
+}

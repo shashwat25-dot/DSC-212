@@ -1,0 +1,8 @@
+community,size,leading_eigenvalue,candidate_gain,accepted,reason
+C,34,4.977080225729884,0.3714661406969099,True,positive gain verified against the complete partition
+C0,16,1.1785377166236126,0.0012327416173570915,True,positive gain verified against the complete partition
+C00,7,8.924941376098054e-16,,False,no positive leading eigenvalue within tolerance
+C01,9,0.060190500381983765,-0.015779092702169706,False,rounded sign proposal has no positive modularity gain
+C1,18,0.8594147207778141,0.020710059171597572,True,positive gain verified against the complete partition
+C10,12,-1.400239778551733e-16,,False,no positive leading eigenvalue within tolerance
+C11,6,6.783745261337698e-16,,False,no positive leading eigenvalue within tolerance
